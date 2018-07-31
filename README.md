@@ -1,1 +1,1 @@
-# Stuff to build packages
+# Build stuff
