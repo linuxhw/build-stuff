@@ -8,6 +8,8 @@ A list of HW Probe dependencies to build self-sufficient images (AppImage, Snap,
 * hdparm
 * edid-decode
 * acpica-unix
+* pciutils
+* usbutils
 * kmod
 * libwww-perl
 * perl-HTTP-Message
